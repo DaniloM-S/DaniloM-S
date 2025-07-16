@@ -1,9 +1,8 @@
 
 
 
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=C%C3%B3digo+Fira&size=25&pause=1000&color=24DA3D&width=355&height=40&lines=Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=C%C3%B3digo+Fira&size=25&pause=1000&color=1CCD42&width=355&lines=Bem-Vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div>
 
 <h3 align="center"> Olá! Eu sou o Danilo Militão Salvador</h3>
