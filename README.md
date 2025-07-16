@@ -1,12 +1,18 @@
-## Olá! Eu sou o Danilo Militão Salvador
 
-- 🎓 Estudante de **Análise de Dados**
-- 💻 Estudo **programação** e gosto de criar páginas web
-- 🚀 Sempre buscando evoluir e construir novos projetos
-- 🧠 **Aprendizagem contínua**
 
-##
-<div style="display: inline_block"><br>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35DA52&width=435&lines=Bem-vindo+ao+meu+Perfil!" alt="Typing SVG" /></a>
+</div>
+
+<h3 align="left"> Olá! Eu sou o Danilo Militão Salvador</h3>
+
+
+<p align="center">Estudante de Tecnologia da Informação pela FAETERJ Petrópolis. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área da tecnologia. Sempre buscando evoluir e aplicar os conhecimentos na criação de novos projetos. 
+
+#
+  
+<h3 align="left">Minhas Ferramentas</h3>
+<div style="display: inline_block">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
