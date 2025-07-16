@@ -1,11 +1,14 @@
 
 
+
+
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=35DA52&width=435&lines=Bem-vindo+ao+meu+Perfil!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=C%C3%B3digo+Fira&pause=1000&color=24DA3D&width=300&lines=Bem-vindo+ao+meu+perfil!" alt="Typing SVG" /></a>
 </div>
 
-<h3 align="left"> Olá! Eu sou o Danilo Militão Salvador</h3>
+#
 
+<h3 align="center"> Olá! Eu sou o Danilo Militão Salvador</h3>
 
 <p align="center">Estudante de Tecnologia da Informação pela FAETERJ Petrópolis. Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área da tecnologia. Sempre buscando evoluir e aplicar os conhecimentos na criação de novos projetos. 
 
@@ -19,8 +22,8 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-##
- 
+#
+<h3 align="left">Onde me encontrar</h3>
 <div> 
   <a href="https://instagram.com/danilo.mlt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:daniloms012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
